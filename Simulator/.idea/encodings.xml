@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/simulator/FileChooser.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/simulator/FileRandom.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/simulator/NetFrame.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/simulator/TCPClient.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/simulator/TCPServer.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/simulator/UDPClient.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/simulator/UDPServer.java" charset="x-windows-949" />
+  </component>
+</project>
